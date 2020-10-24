@@ -1,6 +1,6 @@
 # VueJS + DRF TodoApp
 
-My first project in JS framework and django rest framework 
+Мой первый тестовый проект в связке Vue js + Django Rest Framework, обычный список задач, реализован дефолтный функционал: добавить задачу, удалить задачу, изменить статус задачи. 
 
 ## Project setup
 ```
