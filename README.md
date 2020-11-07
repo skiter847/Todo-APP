@@ -7,11 +7,13 @@
 git clone https://github.com/skiter847/TodoApp
 
 cd TodoApp
+
+python -m venv env && source env/bin/activate && pip install -r requirements.txt
 ```
 
 ### Compiles and hot-reloads for development
 ```
-python manage.py runserver || cd frontend && npm run serve  
+python manage.py runserver || cd frontend && npm install && npm run serve  
 
 ```
 
